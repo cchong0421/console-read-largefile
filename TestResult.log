@@ -1,0 +1,56 @@
+
+### Finished at: 18:58:48
+### (Regex) During Time: 00:00:00.1501810
+
+Match Lines: 3
+Total Lines: 1000
+### Finished at: 18:59:52
+### During Time: 00:00:00.0918690
+
+
+Match Lines: 0
+Total Lines: 1000
+### Finished at: 19:02:17
+### During Time: 00:00:00.1555590
+
+Match Lines: 1
+Total Lines: 1000
+### Finished at: 19:01:43
+### During Time: 00:00:00.0999790
+
+Match Lines: 355
+Total Lines: 23677601
+### Finished at: 19:04:01
+### (Regex) During Time: 00:02:43.2502430
+
+Match Lines: 355
+Total Lines: 23677601
+### Finished at: 19:07:35
+### During Time: 00:00:14.1134500
+
+### Start at: 19:29:48
+
+Loaded '/usr/local/share/dotnet/shared/Microsoft.NETCore.App/3.1.5/System.IO.FileSystem.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+ [Test Case] TestReadingUsingStreamReaderAndRegex
+Reading file： ./sample.log
+Job Start Time： 19:29:48
+Line(1000) 
+Match Lines: 3
+Total Lines: 1000
+Job End Time： 19:29:48
+Job During： 00:00:00.1274670
+====================================================
+ [Test Case] TestReadingUsingStreamReaderAndLinq
+Reading file： ./sample.log
+Job Start Time： 19:29:48
+Line(1000) 
+Match Lines: 3
+Total Lines: 1000
+Job End Time： 19:29:48
+Job During： 00:00:00.0260980
+====================================================
+### Finished at: 19:29:48
+### During Time: 00:00:00.2553450
+
+Hit Enter to Exit!!
+The program '[5146] ReadLargeFileDemo.dll' has exited with code 0 (0x0).
